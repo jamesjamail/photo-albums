@@ -1,0 +1,33 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-photo-albums-dev-151344-authRole",
+            "UnauthRoleArn": "arn:aws:iam::754033485126:role/amplify-photo-albums-dev-151344-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::754033485126:role/amplify-photo-albums-dev-151344-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-photo-albums-dev-151344-deployment",
+            "UnauthRoleName": "amplify-photo-albums-dev-151344-unauthRole",
+            "StackName": "amplify-photo-albums-dev-151344",
+            "StackId": "arn:aws:cloudformation:us-west-2:754033485126:stack/amplify-photo-albums-dev-151344/5e2ef6a0-5fef-11ea-8186-02bc161bfc0c",
+            "AmplifyAppId": "doshkcs55c48g"
+        }
+    },
+    "tutorial": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-photo-albums-tutorial-162449-authRole",
+            "UnauthRoleArn": "arn:aws:iam::754033485126:role/amplify-photo-albums-tutorial-162449-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::754033485126:role/amplify-photo-albums-tutorial-162449-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-photo-albums-tutorial-162449-deployment",
+            "UnauthRoleName": "amplify-photo-albums-tutorial-162449-unauthRole",
+            "StackName": "amplify-photo-albums-tutorial-162449",
+            "StackId": "arn:aws:cloudformation:us-east-2:754033485126:stack/amplify-photo-albums-tutorial-162449/4c24b170-5ff9-11ea-af73-062398501aa6",
+            "AmplifyAppId": "d3jfcj47wb97nz"
+        },
+        "categories": {
+            "auth": {
+                "photoalbumsb9d866c5": {}
+            }
+        }
+    }
+}
